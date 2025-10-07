@@ -1,6 +1,6 @@
 {
     "ios": "1.0.9",
-    "android": "1.0.9",
+    "android": "1.0.10",
     "force_update": true,
     "release_notes": {
         "en": "Bug fixes and performance improvements",
