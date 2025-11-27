@@ -1,17 +1,17 @@
 {
-    "ios": "1.0.0",
-    "android": "1.0.9",
-    "force_update": false,
-    "release_notes": {
-        "en": "Bug fixes and performance improvements",
-        "fr": "Corrections de bugs et améliorations des performances",
-        "es": "Correcciones de errores y mejoras de rendimiento",
-        "de": "Fehlerbehebungen und Leistungsverbesserungen",
-        "pt": "Correções de bugs e melhorias de desempenho",
-        "pl": "Poprawki błędów i ulepszenia wydajności"
-    },
-    "store_urls": {
-        "ios": "https://apps.apple.com/us/app/vaultam/id6752839598",
-        "android": "https://play.google.com/store/apps/details?id=com.mayday.vaultam"
-    }
+  "ios": "1.0.0",
+  "android": "1.1.0",
+  "force_update": true,
+  "store_urls": {
+    "ios": "https://apps.apple.com/app/vaultam/id6444444444",
+    "android": "https://play.google.com/store/apps/details?id=com.mayday.vaultam"
+  },
+  "release_notes": {
+    "en": "🎉 Major Update!\n\n💰 Multi-Account System - Track multiple wallets, bank accounts, and cards with individual balances\n\n📊 Smart Budget - Automatic 50/30/20 budgeting (Needs/Wants/Savings) with flexible periods\n\n🤖 AI Bank Import - Import transactions from bank statements (PDF, CSV, images) with smart categorization\n\n🌙 Light & Dark Mode - Choose your preferred theme or follow system settings\n\n💱 Multi-Currency - Different currencies per transaction with automatic conversion\n\n📅 Past Date Entry - Log expenses and income for previous dates\n\n🏦 Account Purposes - Organize accounts as Spending, Saving, or Investment",
+    "fr": "🎉 Mise à jour majeure !\n\n💰 Système multi-comptes - Suivez plusieurs portefeuilles, comptes bancaires et cartes avec soldes individuels\n\n📊 Budget intelligent - Budgétisation automatique 50/30/20 (Besoins/Envies/Épargne) avec périodes flexibles\n\n🤖 Import bancaire IA - Importez les transactions depuis vos relevés (PDF, CSV, images) avec catégorisation intelligente\n\n🌙 Mode clair et sombre - Choisissez votre thème préféré ou suivez les paramètres système\n\n💱 Multi-devises - Devises différentes par transaction avec conversion automatique\n\n📅 Entrée de dates passées - Enregistrez dépenses et revenus pour des dates antérieures\n\n🏦 Types de comptes - Organisez vos comptes en Dépenses, Épargne ou Investissement",
+    "es": "🎉 ¡Actualización importante!\n\n💰 Sistema multicuenta - Rastrea múltiples billeteras, cuentas bancarias y tarjetas con saldos individuales\n\n📊 Presupuesto inteligente - Presupuestación automática 50/30/20 (Necesidades/Deseos/Ahorros) con períodos flexibles\n\n🤖 Importación bancaria con IA - Importa transacciones desde extractos bancarios (PDF, CSV, imágenes) con categorización inteligente\n\n🌙 Modo claro y oscuro - Elige tu tema preferido o sigue la configuración del sistema\n\n💱 Multimoneda - Diferentes monedas por transacción con conversión automática\n\n📅 Entrada de fechas pasadas - Registra gastos e ingresos de fechas anteriores\n\n🏦 Propósitos de cuenta - Organiza cuentas como Gastos, Ahorros o Inversión",
+    "de": "🎉 Großes Update!\n\n💰 Multi-Konto-System - Verfolgen Sie mehrere Geldbörsen, Bankkonten und Karten mit individuellen Salden\n\n📊 Intelligentes Budget - Automatische 50/30/20 Budgetierung (Bedürfnisse/Wünsche/Sparen) mit flexiblen Zeiträumen\n\n🤖 KI-Bankimport - Importieren Sie Transaktionen aus Kontoauszügen (PDF, CSV, Bilder) mit intelligenter Kategorisierung\n\n🌙 Hell- und Dunkelmodus - Wählen Sie Ihr bevorzugtes Design oder folgen Sie den Systemeinstellungen\n\n💱 Multi-Währung - Verschiedene Währungen pro Transaktion mit automatischer Umrechnung\n\n📅 Vergangene Daten eingeben - Erfassen Sie Ausgaben und Einnahmen für vergangene Daten\n\n🏦 Kontotypen - Organisieren Sie Konten als Ausgaben, Sparen oder Investition",
+    "pt": "🎉 Atualização importante!\n\n💰 Sistema multiconta - Acompanhe múltiplas carteiras, contas bancárias e cartões com saldos individuais\n\n📊 Orçamento inteligente - Orçamentação automática 50/30/20 (Necessidades/Desejos/Poupança) com períodos flexíveis\n\n🤖 Importação bancária com IA - Importe transações de extratos bancários (PDF, CSV, imagens) com categorização inteligente\n\n🌙 Modo claro e escuro - Escolha seu tema preferido ou siga as configurações do sistema\n\n💱 Multimoeda - Moedas diferentes por transação com conversão automática\n\n📅 Entrada de datas passadas - Registre despesas e receitas de datas anteriores\n\n🏦 Finalidades de conta - Organize contas como Gastos, Poupança ou Investimento",
+    "pl": "🎉 Duża aktualizacja!\n\n💰 System wielu kont - Śledź wiele portfeli, kont bankowych i kart z indywidualnymi saldami\n\n📊 Inteligentny budżet - Automatyczne budżetowanie 50/30/20 (Potrzeby/Zachcianki/Oszczędności) z elastycznymi okresami\n\n🤖 Import bankowy AI - Importuj transakcje z wyciągów bankowych (PDF, CSV, obrazy) z inteligentną kategoryzacją\n\n🌙 Tryb jasny i ciemny - Wybierz preferowany motyw lub podążaj za ustawieniami systemu\n\n💱 Wiele walut - Różne waluty na transakcję z automatyczną konwersją\n\n📅 Wpis dat wstecznych - Rejestruj wydatki i dochody z poprzednich dat\n\n🏦 Przeznaczenie kont - Organizuj konta jako Wydatki, Oszczędności lub Inwestycje"
+  }
 }
