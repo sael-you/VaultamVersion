@@ -1,17 +1,17 @@
 {
-  "ios": "1.1.0",
+  "ios": "1.2.0",
   "android": "1.1.0",
-  "force_update": true,
+  "force_update": false,
   "store_urls": {
     "ios": "https://apps.apple.com/app/vaultam/id6444444444",
     "android": "https://play.google.com/store/apps/details?id=com.mayday.vaultam"
   },
   "release_notes": {
-    "en": "🚀 Major Update!\n- Multi-Account support\n- Smart 50/30/20 budgeting\n- AI bank import (PDF/CSV/images)\n- Light & Dark mode\n- Multi-currency support\n- Add past expenses and incomes\n- Account types (Spending/Saving/Investment)",
-    "fr": "🚀 Mise à jour majeure !\n- Multi-comptes\n- Budget intelligent 50/30/20\n- Import bancaire IA (PDF/CSV/images)\n- Mode clair/sombre\n- Multi-devises\n- Ajout de dépenses passées\n- Types de comptes (Dépenses/Épargne/Investissement)",
-    "es": "🚀 Gran actualización!\n- Multicuenta\n- Presupuesto 50/30/20\n- Importación bancaria IA\n- Modo claro/oscuro\n- Multimoneda\n- Registrar gastos pasados\n- Tipos de cuenta",
-    "de": "🚀 Großes Update!\n- Multi-Konto-System\n- 50/30/20 Budget\n- KI-Bankimport\n- Hell/Dunkel-Modus\n- Multi-Währung\n- Vergangene Ausgaben erfassen\n- Kontotypen",
-    "pt": "🚀 Grande atualização!\n- Multiconta\n- Orçamento 50/30/20\n- Importação bancária IA\n- Modo claro/escuro\n- Multimoeda\n- Registrar despesas antigas\n- Tipos de contas",
-    "pl": "🚀 Duża aktualizacja!\n- Obsługa wielu kont\n- Budżet 50/30/20\n- Import bankowy AI\n- Tryb jasny/ciemny\n- Wiele walut\n- Dodawanie wcześniejszych wydatków\n- Typy kont"
+    "en": "🐞 Bug Fix Update\n- General iOS and Android bug fixes\n- Improved stability and performance\n- Smoother user experience across multiple screens",
+    "fr": "🐞 Mise à jour corrective\n- Corrections générales de bugs sur iOS et Android\n- Amélioration de la stabilité et des performances\n- Expérience utilisateur plus fluide sur plusieurs écrans",
+    "es": "🐞 Actualización de corrección de errores\n- Correcciones generales de errores en iOS y Android\n- Mejoras de estabilidad y rendimiento\n- Experiencia más fluida en varias pantallas",
+    "de": "🐞 Fehlerbehebungs-Update\n- Allgemeine Fehlerkorrekturen für iOS und Android\n- Verbesserte Stabilität und Leistung\n- Flüssigere Nutzung über mehrere Bereiche hinweg",
+    "pt": "🐞 Atualização de correção\n- Correções gerais de bugs no iOS e Android\n- Melhorias de estabilidade e desempenho\n- Experiência mais fluida em várias telas",
+    "pl": "🐞 Aktualizacja poprawek błędów\n- Ogólne poprawki błędów w iOS i Androidzie\n- Ulepszenia stabilności i wydajności\n- Płynniejsze działanie aplikacji na wielu ekranach"
   }
 }
