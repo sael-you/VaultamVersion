@@ -1,17 +1,17 @@
 {
-  "ios": "1.2.0",
+  "ios": "1.3.0",
   "android": "1.2.0",
-  "force_update": false,
+  "force_update": true,
   "store_urls": {
     "ios": "https://apps.apple.com/us/app/vaultam/id6752839598",
     "android": "https://play.google.com/store/apps/details?id=com.mayday.vaultam"
   },
   "release_notes": {
-    "en": "🐞 Bug Fix Update\n- General iOS and Android bug fixes\n- Improved stability and performance\n- Smoother user experience across multiple screens",
-    "fr": "🐞 Mise à jour corrective\n- Corrections générales de bugs sur iOS et Android\n- Amélioration de la stabilité et des performances\n- Expérience utilisateur plus fluide sur plusieurs écrans",
-    "es": "🐞 Actualización de corrección de errores\n- Correcciones generales de errores en iOS y Android\n- Mejoras de estabilidad y rendimiento\n- Experiencia más fluida en varias pantallas",
-    "de": "🐞 Fehlerbehebungs-Update\n- Allgemeine Fehlerkorrekturen für iOS und Android\n- Verbesserte Stabilität und Leistung\n- Flüssigere Nutzung über mehrere Bereiche hinweg",
-    "pt": "🐞 Atualização de correção\n- Correções gerais de bugs no iOS e Android\n- Melhorias de estabilidade e desempenho\n- Experiência mais fluida em várias telas",
-    "pl": "🐞 Aktualizacja poprawek błędów\n- Ogólne poprawki błędów w iOS i Androidzie\n- Ulepszenia stabilności i wydajności\n- Płynniejsze działanie aplikacji na wielu ekranach"
+    "en": "✨ What’s New in 1.3.0\n\n- New options for recurring transactions — choose weekdays, weekends, or custom days\n- A simpler welcome setup for new users (language, currency + free AI credits)\n- Faster and more reliable currency conversion for transactions and budgets\n- Editing transactions is now much more dependable\n- Fixed delete action on iOS and improved overall app stability",
+    "fr": "✨ Nouveautés de la version 1.3.0\n\n- Nouvelles options pour les transactions récurrentes : jours de semaine, week-end ou jours personnalisés\n- Expérience d’accueil simplifiée pour les nouveaux utilisateurs\n- Conversion des devises plus rapide et plus fiable\n- Édition des transactions désormais plus stable\n- Correction du bouton Supprimer sur iOS et nombreuses améliorations de stabilité",
+    "es": "✨ Novedades en la versión 1.3.0\n\n- Nuevas opciones para transacciones recurrentes: días laborales, fin de semana o días personalizados\n- Bienvenida más simple para nuevos usuarios\n- Conversión de divisas más precisa y estable\n- Edición de transacciones más confiable\n- Corrección del botón de eliminar en iOS y mejoras de estabilidad",
+    "de": "✨ Neu in Version 1.3.0\n\n- Neue Optionen für wiederkehrende Transaktionen: Wochentage, Wochenende oder eigene Auswahl\n- Vereinfachte Ersteinrichtung für neue Nutzer\n- Zuverlässigere Währungsumrechnung für Transaktionen und Budgets\n- Stabile und verbesserte Bearbeitung von Transaktionen\n- Fehlerbehebung beim Löschen auf iOS + viele Stabilitätsverbesserungen",
+    "pt": "✨ Novidades na versão 1.3.0\n\n- Novas opções para transações recorrentes: dias úteis, fim de semana ou dias personalizados\n- Experiência inicial mais simples para novos usuários\n- Conversão de moeda mais precisa e confiável\n- Edição de transações mais estável\n- Correção ao excluir no iOS e melhorias gerais de desempenho",
+    "pl": "✨ Nowości w wersji 1.3.0\n\n- Nowe opcje transakcji cyklicznych: dni robocze, weekend lub własny wybór\n- Uproszczone rozpoczęcie dla nowych użytkowników\n- Dokładniejsze i stabilniejsze przeliczanie walut\n- Bardziej niezawodna edycja transakcji\n- Naprawiono usuwanie na iOS i poprawiono ogólną stabilność aplikacji"
   }
 }
