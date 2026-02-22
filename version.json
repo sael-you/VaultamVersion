@@ -1,7 +1,8 @@
 {
-  "ios": "1.5.1",
+  "ios": "1.5.0,
   "android": "1.6.0",
-  "force_update": true,
+  "force_update": true
+,
   "store_urls": {
     "ios": "https://apps.apple.com/us/app/vaultam/id6752839598",
     "android": "https://play.google.com/store/apps/details?id=com.mayday.vaultam"
